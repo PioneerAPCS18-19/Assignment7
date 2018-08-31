@@ -10,7 +10,7 @@ You will also need some helper methods for achieving these tasks and some basic 
 
 ## Part 1
 
-Get the classes set up in BlueJ, create instance variables, create a constructor, and work on the `getDigitSum` method.
+Get the classes set up in BlueJ, create instance variables, create a constructor, and fill in some methods together.
 
 ### Grading
 
