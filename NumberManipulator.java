@@ -27,6 +27,17 @@ public class NumberManipulator
     // your implementation...
 
 
+    /**
+     * getNumber
+     *
+     * @param none
+     * @return num as an int
+     */
+    public int getNumber()
+    {
+        return num;
+    }
+
 
     /**
      * getTimesRun
@@ -42,6 +53,8 @@ public class NumberManipulator
     /**
      * getReverse
      *
+     * pre-condition: 0 <= num < 1000
+     *
      * @param none
      * @return num reversed as an int
      */
@@ -52,6 +65,8 @@ public class NumberManipulator
 
     /**
      * getDigitSum
+     *
+     * pre-condition: 0 <= num < 1000
      *
      * @param none
      * @return sum of digits of num as an int
