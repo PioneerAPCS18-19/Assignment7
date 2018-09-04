@@ -12,6 +12,14 @@ You will also need some helper methods for achieving these tasks and some basic 
 
 Get the classes set up in BlueJ, create instance variables, create a constructor, and fill in some methods together.
 
+## Part 2
+
+Complete the `stop` and `getDigitSum` methods.
+
+### Part 3
+
+Complete the `getReverse` and `getNthDigit` methods.
+
 ### Grading
 
 As always, your program will be graded on its functionality according to the project specifications and proper code style.
