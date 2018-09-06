@@ -53,7 +53,7 @@ public class NumberManipulator
     /**
      * getReverse
      *
-     * pre-condition: 0 <= num < 1000
+     * pre-condition: 100 <= num < 1000
      *
      * @param none
      * @return num reversed as an int
@@ -66,7 +66,7 @@ public class NumberManipulator
     /**
      * getDigitSum
      *
-     * pre-condition: 0 <= num < 1000
+     * pre-condition: 100 <= num < 1000
      *
      * @param none
      * @return sum of digits of num as an int
