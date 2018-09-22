@@ -16,7 +16,7 @@ Get the classes set up in BlueJ, create instance variables, create a constructor
 
 Complete the `stop` and `getNthDigit` methods.
 
-### Part 3
+## Part 3
 
 Complete the `getReverse` and `getDigitSum` methods.
 
